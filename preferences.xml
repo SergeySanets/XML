@@ -1,5 +1,7 @@
-Любимый фильм - 1+1
-Любимый  сериал - Затрудняюсь ответить
-Любимая еда - драники с мясом
-Любимое время года - зима
-Желаемая страна для посещения - Норвегия
+<preferences>
+<favourite_film>1+1</favourite_film>
+<favourite_serial>none</favourite_serial>
+<favourite_food>potato</favourite_food>
+<favourite_season>winter</favourite_season>
+<favourite_country>Norway</favourite_country>
+</preferences>

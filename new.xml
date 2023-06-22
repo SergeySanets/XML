@@ -1,4 +1,7 @@
-Санец Сергей Александрович
-28 лет
-Домашних животных нет
-500$
+<new>
+<first_name>Sergey</first_name>
+<last_name>Sanets</last_name>
+<age>29</age>
+<pets>none</pets>
+<salary>500$</salary>
+</new>
